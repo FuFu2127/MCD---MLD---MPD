@@ -1,0 +1,8 @@
+
+Une agence immobilière gère la location d'appartements et de maisons pour le compte de propriétaires.
+
+Cette agence maintient une base de données relationnelles dans laquelle chaque propriétaire (nom, prénom, adresse, telephone) remet en gestion à l'agence plusieurs appartements ou maisons (taille, adresse, prix de location) selon un contrat (durée, pourcentage) propre à chaque bien.
+
+Chaque appartements ou maisons est données en location par un bail (identifié par un numéro et pour une période déterminée), à un locataire dont on enregistre (nom, prenom, adresse, telephone)
+
+Faire le MCD (Modèle Conceptuel des données), MLD (Modèle Logique des données) et MPD (Modèle Physique des données)
