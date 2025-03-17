@@ -1,10 +1,9 @@
 CREATE TABLE if not EXISTS Proprietaire (
     id_proprietaire INT,
-    nom VARCHAR(50),
-    prenom VARCHAR(50),
+    nom VARCHAR(50) NOT NULL,
+    prenom VARCHAR(50) NOT NULL,
     adresse VARCHAR(50),
     telephone INT,
-    prix DECIMAL(15,2),
     PRIMARY KEY(id_proprietaire)
 );
 
